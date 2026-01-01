@@ -1,0 +1,24 @@
+@import "tailwindcss";
+
+html {
+  scroll-behavior: smooth;
+}
+
+body{
+  background-color: #b1b0b8;
+}
+
+
+/* *{
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  height: 100vh;
+  background-image: url('./assets/bg.jpg');
+  background-color: #ffffff;
+  color: black;
+  font-family: 'outfit';
+}
+ */
