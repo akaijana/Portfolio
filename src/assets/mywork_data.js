@@ -29,7 +29,7 @@ const mywork_data = [
         title: 'Portfolio website',
         description: 'Web App',
         w_img:portfolio,
-         link:'https://weather-one-swart.vercel.app/'
+         link:'https://portfolio-eta-wine-37.vercel.app/'
     },
     {
         title: 'Blog Application',
